@@ -24,11 +24,17 @@
 ##  表示イメージ
 
 ElementId,ParameterName,ParameterValue
+
 123456,Length,12.34
+
 123456,Diameter,50.00
+
 123456,Comments,"配管メインライン"
+
 789012,Width,100.00
+
 789012,Height,200.00
+
 789012,Mark,"部屋A用ダクト"
 
 
